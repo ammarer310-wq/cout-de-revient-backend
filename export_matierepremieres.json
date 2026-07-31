@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nom": "Farine",
+        "prix_achat": 12,
+        "unite": "kg",
+        "fournisseur_id": 2,
+        "created_at": "2026-07-20 09:50:50",
+        "updated_at": "2026-07-20 09:50:50"
+    },
+    {
+        "id": 2,
+        "nom": "Farine",
+        "prix_achat": 12,
+        "unite": "kg",
+        "fournisseur_id": 2,
+        "created_at": "2026-07-20 09:51:10",
+        "updated_at": "2026-07-20 09:51:10"
+    },
+    {
+        "id": 3,
+        "nom": "sucre",
+        "prix_achat": 10,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:20:24",
+        "updated_at": "2026-07-27 11:20:24"
+    },
+    {
+        "id": 4,
+        "nom": "chocolat",
+        "prix_achat": 15,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:20:41",
+        "updated_at": "2026-07-27 11:20:41"
+    },
+    {
+        "id": 5,
+        "nom": "lait",
+        "prix_achat": 10,
+        "unite": "L",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:21:06",
+        "updated_at": "2026-07-27 11:21:06"
+    },
+    {
+        "id": 6,
+        "nom": "eau",
+        "prix_achat": 5,
+        "unite": "L",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:21:24",
+        "updated_at": "2026-07-27 11:21:24"
+    },
+    {
+        "id": 7,
+        "nom": "sel",
+        "prix_achat": 2,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:22:14",
+        "updated_at": "2026-07-27 11:22:14"
+    },
+    {
+        "id": 8,
+        "nom": "miel",
+        "prix_achat": 30,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:36:28",
+        "updated_at": "2026-07-27 11:36:28"
+    },
+    {
+        "id": 9,
+        "nom": "oeuf",
+        "prix_achat": 1.5,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-27 11:37:55",
+        "updated_at": "2026-07-27 11:37:55"
+    },
+    {
+        "id": 10,
+        "nom": "cacao",
+        "prix_achat": 5,
+        "unite": "kg",
+        "fournisseur_id": null,
+        "created_at": "2026-07-28 13:51:09",
+        "updated_at": "2026-07-28 13:51:09"
+    }
+]

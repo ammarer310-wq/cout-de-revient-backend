@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Test User",
+        "email": "test@example.com",
+        "email_verified_at": "2026-07-20 09:08:56",
+        "password": "$2y$12$9DAZRjWhWZUOF5RWH.KjC.6z56aVWXfW4LhbQniZD7b9AxbRKC4Oa",
+        "remember_token": "U7RKIy1kHC",
+        "created_at": "2026-07-20 09:08:56",
+        "updated_at": "2026-07-20 09:08:56",
+        "role": "user"
+    },
+    {
+        "id": 2,
+        "name": "Admin Test",
+        "email": "admin@test.com",
+        "email_verified_at": null,
+        "password": "$2y$12$gQaiWmvUGYqgw2gkx6xxIOwHt2V\/PLTw7fU5zdyWrCA5Tsay1OnQ2",
+        "remember_token": null,
+        "created_at": "2026-07-20 09:21:14",
+        "updated_at": "2026-07-20 09:21:14",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "ammar sonebi",
+        "email": "ammarer310@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$12$WSbJBQLfcmPQHXeRLhXlFeAopXTjp84Ocv3C4on5Yr577bny\/EflG",
+        "remember_token": null,
+        "created_at": "2026-07-22 14:47:43",
+        "updated_at": "2026-07-23 10:11:48",
+        "role": "user"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nom": "Biscuit Chocolat",
+        "description": null,
+        "grammage": 50,
+        "rendement": 95,
+        "temps_production": 10,
+        "created_at": "2026-07-20 03:48:27",
+        "updated_at": "2026-07-20 03:48:27"
+    },
+    {
+        "id": 2,
+        "nom": "gaufrette vanille",
+        "description": null,
+        "grammage": 55,
+        "rendement": 90,
+        "temps_production": 8,
+        "created_at": "2026-07-22 11:17:25",
+        "updated_at": "2026-07-22 11:17:25"
+    },
+    {
+        "id": 3,
+        "nom": "crepe",
+        "description": null,
+        "grammage": 30,
+        "rendement": 85,
+        "temps_production": 15,
+        "created_at": "2026-07-23 11:01:39",
+        "updated_at": "2026-07-23 11:01:39"
+    }
+]

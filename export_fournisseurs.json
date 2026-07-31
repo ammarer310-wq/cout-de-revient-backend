@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nom": "Fournisseur Test",
+        "email": "fournisseur@test.com",
+        "telephone": "0600000000",
+        "adresse": "Casablanca",
+        "created_at": "2026-07-20 08:50:30",
+        "updated_at": "2026-07-20 08:50:30"
+    },
+    {
+        "id": 2,
+        "nom": "Fournisseur Test",
+        "email": "fournisseur@test.com",
+        "telephone": "0600000000",
+        "adresse": "Casablanca",
+        "created_at": "2026-07-20 09:33:37",
+        "updated_at": "2026-07-20 09:33:37"
+    }
+]

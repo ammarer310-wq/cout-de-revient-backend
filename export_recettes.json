@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "produit_id": 1,
+        "matierepremiere_id": 1,
+        "quantite_theorique": 0.05,
+        "perte_pourcentage": 2,
+        "rendement": 98,
+        "quantite_reelle": 0.05,
+        "created_at": "2026-07-20 10:36:32",
+        "updated_at": "2026-07-20 10:36:32"
+    },
+    {
+        "id": 2,
+        "produit_id": 3,
+        "matierepremiere_id": 1,
+        "quantite_theorique": 1,
+        "perte_pourcentage": 3,
+        "rendement": 95,
+        "quantite_reelle": 1.08,
+        "created_at": "2026-07-24 14:39:37",
+        "updated_at": "2026-07-24 14:39:37"
+    },
+    {
+        "id": 3,
+        "produit_id": 1,
+        "matierepremiere_id": 3,
+        "quantite_theorique": 0.008,
+        "perte_pourcentage": 5,
+        "rendement": 95,
+        "quantite_reelle": 0.01,
+        "created_at": "2026-07-27 11:59:59",
+        "updated_at": "2026-07-27 11:59:59"
+    },
+    {
+        "id": 4,
+        "produit_id": 1,
+        "matierepremiere_id": 6,
+        "quantite_theorique": 0.4,
+        "perte_pourcentage": 3,
+        "rendement": 95,
+        "quantite_reelle": 0.43,
+        "created_at": "2026-07-28 10:00:03",
+        "updated_at": "2026-07-28 10:00:03"
+    },
+    {
+        "id": 5,
+        "produit_id": 2,
+        "matierepremiere_id": 1,
+        "quantite_theorique": 0.05,
+        "perte_pourcentage": 2,
+        "rendement": 97,
+        "quantite_reelle": 0.05,
+        "created_at": "2026-07-28 12:03:33",
+        "updated_at": "2026-07-28 12:03:33"
+    },
+    {
+        "id": 6,
+        "produit_id": 2,
+        "matierepremiere_id": 9,
+        "quantite_theorique": 0.02,
+        "perte_pourcentage": 0,
+        "rendement": 99,
+        "quantite_reelle": 0.02,
+        "created_at": "2026-07-28 12:04:14",
+        "updated_at": "2026-07-28 12:04:14"
+    }
+]
